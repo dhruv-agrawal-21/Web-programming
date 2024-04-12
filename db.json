@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 3,
+      "text": "Antibiotic",
+      "day": "2 times 3 days",
+      "remainder": true,
+      "reminder": true
+    },
+    {
+      "text": "Citrizine",
+      "day": "3 days",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Citrizine",
+      "day": "5 days",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "Paracetamol",
+      "day": "5 days 3 times",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
